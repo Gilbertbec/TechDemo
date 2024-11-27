@@ -1,5 +1,5 @@
 #
-.src/TechDemo/.vs
-.src/TechDemo/bin
-.src/TechDemo/obj
+/src/TechDemo/.vs
+/src/TechDemo/bin
+/src/TechDemo/obj
 # End of https://mrkandreev.name/snippets/gitignore-generator/#https://github.com/Gilbertbec/TechDemo
